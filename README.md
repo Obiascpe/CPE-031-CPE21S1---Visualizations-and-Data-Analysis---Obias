@@ -12,11 +12,3 @@
   This repository serves as a compilation of my work for _CPE 031 – Visualizations and Data Analysis_. It includes the activities and projects completed as part of the course requirements.
 
 ## CONTENTS
-- Laboratory Exercises
-- Programming Assignments
-- Projects
-- Datasets
-- Jupyter Notebooks
-- Visualizations
-- Documentation
-- Presentations
