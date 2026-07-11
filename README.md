@@ -12,3 +12,8 @@
   This repository serves as a compilation of my work for _CPE 031 – Visualizations and Data Analysis_. It includes the activities and projects completed as part of the course requirements.
 
 ## CONTENTS
+| Laboratory | Topic | Folder |
+|------------|-------|--------|
+| Lab 1 | Introduction to Python | [Open](./Laboratory%20Exercises/Lab1) |
+| Lab 2 | Data Cleaning | [Open](./Laboratory%20Exercises/Lab2) |
+| Lab 3 | Data Visualization | [Open](./Laboratory%20Exercises/Lab3) |
