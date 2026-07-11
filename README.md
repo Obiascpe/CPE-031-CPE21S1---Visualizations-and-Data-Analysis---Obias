@@ -1,9 +1,9 @@
 # CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Obias
 
 ## INFORMATION
-| __Name__| Obias, Jave Joaquin C.|
+|__Name__| Obias, Jave Joaquin C.|
 |-------|-------------------------|
-|__Section__| CPE21S1|
+|__Section__| CPE21S1 |
 |__Course__| CPE 031 - Visualizations and Data Analysis|
 |__Professor__| Engr. Jimlord M. Quejado|
 
