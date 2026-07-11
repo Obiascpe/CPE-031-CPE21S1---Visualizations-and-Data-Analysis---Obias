@@ -1,4 +1,5 @@
-https://open.spotify.com/track/5pJ6rSn84USs0Gu79JzKrb?si=066aac9396d14191
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+
 # CPE-031-CPE21S1---Visualizations-and-Data-Analysis---Obias
 
 ## INFORMATION
